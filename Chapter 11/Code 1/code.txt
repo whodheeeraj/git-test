@@ -1,0 +1,3 @@
+service.running:
+  name : apache2
+  enabaled : True
